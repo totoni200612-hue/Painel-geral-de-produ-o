@@ -1,0 +1,6 @@
+{
+  "name": "APP Produção",
+  "description": "Sistema de planejamento, controle e abastecimento da produção industrial (PCP, Ordens de Produção, Estoque, Apontamentos e Indicadores).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
